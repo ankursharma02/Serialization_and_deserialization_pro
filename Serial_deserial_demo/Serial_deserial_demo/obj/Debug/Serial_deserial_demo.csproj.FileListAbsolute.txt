@@ -1,7 +1,0 @@
-D:\C#pro\Serial_deserial_and_abstr_and_interface\Serial_deserial_demo\Serial_deserial_demo\obj\Debug\Serial_deserial_demo.csprojAssemblyReference.cache
-D:\C#pro\Serial_deserial_and_abstr_and_interface\Serial_deserial_demo\Serial_deserial_demo\obj\Debug\Serial_deserial_demo.csproj.CoreCompileInputs.cache
-D:\C#pro\Serial_deserial_and_abstr_and_interface\Serial_deserial_demo\Serial_deserial_demo\bin\Debug\Serial_deserial_demo.exe.config
-D:\C#pro\Serial_deserial_and_abstr_and_interface\Serial_deserial_demo\Serial_deserial_demo\bin\Debug\Serial_deserial_demo.exe
-D:\C#pro\Serial_deserial_and_abstr_and_interface\Serial_deserial_demo\Serial_deserial_demo\bin\Debug\Serial_deserial_demo.pdb
-D:\C#pro\Serial_deserial_and_abstr_and_interface\Serial_deserial_demo\Serial_deserial_demo\obj\Debug\Serial_deserial_demo.exe
-D:\C#pro\Serial_deserial_and_abstr_and_interface\Serial_deserial_demo\Serial_deserial_demo\obj\Debug\Serial_deserial_demo.pdb

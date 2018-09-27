@@ -1,0 +1,7 @@
+D:\C#pro\Abst_interface_Delegate\Abst_inter_demo\Abst_inter_demo\obj\Debug\Abst_inter_demo.csprojAssemblyReference.cache
+D:\C#pro\Abst_interface_Delegate\Abst_inter_demo\Abst_inter_demo\obj\Debug\Abst_inter_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\Abst_interface_Delegate\Abst_inter_demo\Abst_inter_demo\bin\Debug\Abst_inter_demo.exe.config
+D:\C#pro\Abst_interface_Delegate\Abst_inter_demo\Abst_inter_demo\bin\Debug\Abst_inter_demo.exe
+D:\C#pro\Abst_interface_Delegate\Abst_inter_demo\Abst_inter_demo\bin\Debug\Abst_inter_demo.pdb
+D:\C#pro\Abst_interface_Delegate\Abst_inter_demo\Abst_inter_demo\obj\Debug\Abst_inter_demo.exe
+D:\C#pro\Abst_interface_Delegate\Abst_inter_demo\Abst_inter_demo\obj\Debug\Abst_inter_demo.pdb
